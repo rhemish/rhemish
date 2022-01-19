@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rhemish
-- 👀 I’m interested in Data Analytics
+- 👀 I’m interested in Data Science - Analytics
 - 🌱 I’m currently learning python and R
 - 💞️ I’m looking to collaborate on Data analytics project
 - 📫 How to reach me ...
