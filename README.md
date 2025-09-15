@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rhemish
-- 👀 I’m interested in Data Science - Analytics
+- 👀 I’m interested in Data Science and Machine Learning
 - 🌱 I’m currently learning python and R
-- 💞️ I’m looking to collaborate on Data analytics project
+- 💞️ I’m looking to collaborate on AI and ML projects
 - 📫 How to reach me ...
 
 <!---
